@@ -1,7 +1,7 @@
 # Bishop-Lohman-303
 A Menu is output with a set of options to the user<br />
   If the user selects 'a'<br />
-    -the menu is printed<br />
+  -the menu is printed<br />
   If the user selects 'b' <br />
     -they are prompted to input a value<br />
     -if the value exists within the array the index is returned<br />
