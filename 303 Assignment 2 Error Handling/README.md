@@ -4,17 +4,21 @@ A Menu is output with a set of options to the user<br />
   - the menu is printed<br />
 - If the user selects 'b' <br />
   - they are prompted to input a value<br />
-    - If an invalid value is entered an error is thrown
+    - If an invalid value is entered an error is thrown<br />
     - if the value exists within the array the index is returned and output<br />
 - If the user selects 'c'<br />
   - they are prompted to input an index<br />
+    - If an invalid index is entered an error is thrown<br />
   - they are prompted to input a value<br />
+    - If an invalid value is entered an error is thrown<br />
   - the orginal value and new value are output<br />
 - If the user selects 'd'<br />
   - they are prompted to input a value<br />
+    - If an invalid value is entered an error is thrown<br />
   - the value is added to the end of the array<br />
 - If the user selects 'e'<br />
   - they are propmpted to input an index<br />
+    - If an invalid value is entered an error is thrown<br />
   - the value at the index is removed<br />
 - If the user selects 'q'<br />
   - the program exists<br />
