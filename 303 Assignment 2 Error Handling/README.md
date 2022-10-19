@@ -31,4 +31,11 @@ option 'd'<br />
 <img src="https://user-images.githubusercontent.com/90850429/192044143-41c26fef-613d-422f-bb07-907510c95512.png" width="240" height="400"><br />
 option 'e'<br />
 <img src="https://user-images.githubusercontent.com/90850429/192058946-5ba4138c-621a-4bf0-9396-972f7507613d.png" width="240" height="400"><br />
-
+Find value error handling<br />
+<img src="https://user-images.githubusercontent.com/90850429/196580401-e28f7dbf-4762-4851-bc6f-2f6f63ba8a0e.pn"><br />
+Modify value error Handling<br />
+<img src="https://user-images.githubusercontent.com/90850429/196580689-50a2dd05-eee0-46d4-bf48-9cc5cca92f0d.png"><br />
+Add Value error handling<br />
+<img src="https://user-images.githubusercontent.com/90850429/192058946-5ba4138c-621a-4bf0-9396-972f7507613d.png" width="240" height="400"><br />
+Remove value error handling<br />
+<img src="https://user-images.githubusercontent.com/90850429/192058946-5ba4138c-621a-4bf0-9396-972f7507613d.png" width="240" height="400"><br />
