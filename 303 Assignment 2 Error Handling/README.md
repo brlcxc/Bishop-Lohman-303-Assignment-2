@@ -4,7 +4,8 @@ A Menu is output with a set of options to the user<br />
   - the menu is printed<br />
 - If the user selects 'b' <br />
   - they are prompted to input a value<br />
-  - if the value exists within the array the index is returned<br />
+    - If an invalid value is entered an error is thrown
+    - if the value exists within the array the index is returned and output<br />
 - If the user selects 'c'<br />
   - they are prompted to input an index<br />
   - they are prompted to input a value<br />
