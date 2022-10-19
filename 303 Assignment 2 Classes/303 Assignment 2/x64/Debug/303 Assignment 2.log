@@ -1,0 +1,5 @@
+﻿  Employee.cpp
+  Source.cpp
+C:\Personal\UMKC\UMKC Fall 2022\CS303\Assignments\2\303 Assignment 2\303 Assignment 2\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  303 Assignment 2.vcxproj -> C:\Personal\UMKC\UMKC Fall 2022\CS303\Assignments\2\303 Assignment 2\x64\Debug\303 Assignment 2.exe
